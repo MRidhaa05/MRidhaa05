@@ -1,16 +1,49 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
-<!--
-**MRidhaa05/MRidhaa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌌 Hey, I’m MRidhaa 👋  
+### ⚔️ Junior Backend Developer | Architecture-Focused Engineer
 
-Here are some ideas to get you started:
+> “Architecture is planning for mistakes you haven’t made yet.” 🧠✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑🏽‍💻 About Me
+
+🎓 Junior Developer focused on mastering backend engineering  
+🏗️ Actively studying **Modular Monolith Architecture**  
+📚 Deep diving into **Clean Architecture, CQRS & Domain-Driven Design**  
+🚀 Working toward building scalable, enterprise-ready systems  
+
+I’m not just learning how to code —  
+I’m learning how to design systems with clear boundaries and strong foundations.
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 🖥 Backend
+- C#
+- .NET Web API
+- Entity Framework Core
+- SQL / SQLite
+- MediatR
+- FluentValidation
+
+### 🧠 Architecture & Design (Current Focus)
+- Clean Architecture
+- Modular Monolith
+- CQRS
+- Domain-Driven Design (In Progress 🔥)
+- Event-Driven Patterns (Exploration Phase)
+
+### 🌐 Frontend Exposure
+- React (Feature-based structure)
+
+---
+
+## 📈 Current Training Arc
+
+```text
+[██████████░░░░░░░░] Backend Engineering - 60%
+[████████░░░░░░░░░░] Architecture & System Design - 50%
+[████░░░░░░░░░░░░░░] Advanced Distributed Systems - 20%
