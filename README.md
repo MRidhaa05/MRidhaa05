@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25iem5ua3N2aHZtYWRxcHdqNmY1aGFmemdzZ3F5ano1NDc5eWw2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif" width="100%" />
+</p>
 
 # 🌌 Hey, I’m MRidhaa 👋  
 ### ⚔️ Junior Backend Developer | Architecture-Focused Engineer
