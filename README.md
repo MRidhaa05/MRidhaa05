@@ -46,6 +46,7 @@ I’m learning how to design systems with clear boundaries and strong foundation
 ## Current Training Arc
 
 ```text
-[██████████░░░░░░░░] Backend Engineering - 60%
-[████████░░░░░░░░░░] Architecture & System Design - 50%
+[████████████░░] Backend Engineering - 80%
+[██████████░░░░] Architecture & System Design - 70%
 [████░░░░░░░░░░░░░░] Advanced Distributed Systems - 20%
+[██████░░░░░░░░░░] React - 40%
