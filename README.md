@@ -35,7 +35,7 @@
 <pre>
 ══════════════════════════════════════════════════════════
 
-   Hear ye, hear ye!  I am MRidhaa05 - Knight of the Code Realm.
+   I am MRidhaa05 - Knight of the Code Realm.
    A wielder of logic, a conqueror of bugs, a builder of worlds
    from nothing but keystrokes and sheer willpower.
 
