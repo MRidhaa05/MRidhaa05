@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=%E2%9A%94%EF%B8%8F%20MRidhaa05%20%E2%9A%94%EF%B8%8F&fontSize=65&fontColor=FFD700&fontAlign=50&fontAlignY=40&desc=Knight%20of%20the%20Code%20Realm&descSize=22&descAlignY=65&descAlign=50&animation=fadeIn" alt="Royal Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MRidhaa05&fontSize=65&fontColor=FFD700&fontAlign=50&fontAlignY=40&desc=Knight%20of%20the%20Code%20Realm&descSize=22&descAlignY=65&descAlign=50&animation=fadeIn" alt="Royal Header Banner"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MRidhaa05.MRidhaa05&left_text=Royal%20Subjects&left_color=8B0000&right_color=FFD700&style=for-the-badge" alt="Visitor Count"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/MRidhaa05?label=%F0%9F%9B%A1%EF%B8%8F%20Knights%20in%20Order&style=for-the-badge&color=FFD700&labelColor=8B0000" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/MRidhaa05?label=Knights%20in%20Order&style=for-the-badge&color=FFD700&labelColor=8B0000" alt="Followers"/>
 
 </div>
 
@@ -33,42 +33,42 @@
 <br/>
 
 <pre>
-⚔️ ══════════════════════════════════════════════════════════ ⚔️
+══════════════════════════════════════════════════════════
 
-   Hear ye, hear ye!  I am MRidhaa05 — Knight of the Code Realm.
+   Hear ye, hear ye!  I am MRidhaa05 - Knight of the Code Realm.
    A wielder of logic, a conqueror of bugs, a builder of worlds
    from nothing but keystrokes and sheer willpower.
 
    My blade is my keyboard. My armor is clean code.
    My kingdom is built one commit at a time.
 
-⚔️ ══════════════════════════════════════════════════════════ ⚔️
+══════════════════════════════════════════════════════════
 </pre>
 
 <br/>
 
 <table>
   <tr>
-    <td align="center">🏰 &nbsp;<b>Realm</b></td>
+    <td align="center"><b>Realm</b></td>
     <td align="center">Software Development</td>
-    <td align="center">🗡️ &nbsp;<b>Weapon of Choice</b></td>
+    <td align="center"><b>Weapon of Choice</b></td>
     <td align="center">VS Code &amp; Visual Studio</td>
   </tr>
   <tr>
-    <td align="center">📜 &nbsp;<b>Current Quest</b></td>
+    <td align="center"><b>Current Quest</b></td>
     <td align="center">Mastering the Dark Arts of Full-Stack</td>
-    <td align="center">🛡️ &nbsp;<b>Oath</b></td>
+    <td align="center"><b>Oath</b></td>
     <td align="center">Write Clean Code or Die Trying</td>
   </tr>
   <tr>
-    <td align="center">🔥 &nbsp;<b>Battle Cry</b></td>
+    <td align="center"><b>Battle Cry</b></td>
     <td align="center">"It works on my machine!"</td>
-    <td align="center">🌍 &nbsp;<b>Kingdom</b></td>
+    <td align="center"><b>Kingdom</b></td>
     <td align="center">Open Source</td>
   </tr>
   <tr>
-    <td align="center">⚡ &nbsp;<b>Fun Scroll</b></td>
-    <td align="center" colspan="3">I debug in the dark and deploy at midnight — like a true knight.</td>
+    <td align="center"><b>Fun Scroll</b></td>
+    <td align="center" colspan="3">I debug in the dark and deploy at midnight - like a true knight.</td>
   </tr>
 </table>
 
@@ -82,12 +82,12 @@
 
 <div align="center">
 
-## ⚔️ &nbsp;The Royal Armory &nbsp;⚔️
+## The Royal Armory
 ### *Weapons & Tools of the Realm*
 
 <br/>
 
-**⚜️ Languages of the Ancient Scripts ⚜️**
+**Languages of the Ancient Scripts**
 
 <br/>
 
@@ -95,7 +95,7 @@
 
 <br/><br/>
 
-**🏹 Frameworks &amp; Enchantments**
+**Frameworks &amp; Enchantments**
 
 <br/>
 
@@ -103,7 +103,7 @@
 
 <br/><br/>
 
-**🏺 Relics &amp; Datastores**
+**Relics &amp; Datastores**
 
 <br/>
 
@@ -113,7 +113,7 @@
 
 <br/><br/>
 
-**🛡️ Tools of War**
+**Tools of War**
 
 <br/>
 
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-## 📜 &nbsp;The Royal Chronicles &nbsp;📜
+## The Royal Chronicles
 ### *Deeds of Valor on the Battlefield*
 
 <br/>
@@ -138,12 +138,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/MRidhaa05">
-        <img src="https://github-readme-stats.vercel.app/api?username=MRidhaa05&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=d4af37&bg_color=0d0d0d&border_color=8B0000&ring_color=FFD700&hide_border=false&custom_title=%E2%9A%94%EF%B8%8F%20Battle%20Statistics" height="180" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MRidhaa05&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=d4af37&bg_color=0d0d0d&border_color=8B0000&ring_color=FFD700&hide_border=false&custom_title=Battle%20Statistics" height="180" alt="GitHub Stats"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/MRidhaa05">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRidhaa05&layout=compact&langs_count=8&theme=merko&title_color=FFD700&text_color=d4af37&bg_color=0d0d0d&border_color=8B0000&custom_title=%F0%9F%93%9C%20Tongues%20of%20the%20Realm" height="180" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRidhaa05&layout=compact&langs_count=8&theme=merko&title_color=FFD700&text_color=d4af37&bg_color=0d0d0d&border_color=8B0000&custom_title=Tongues%20of%20the%20Realm" height="180" alt="Top Languages"/>
       </a>
     </td>
   </tr>
@@ -163,7 +163,7 @@
 
 <div align="center">
 
-## 🏆 &nbsp;The Wall of Glory &nbsp;🏆
+## The Wall of Glory
 ### *Trophies Won on the Field of Battle*
 
 <br/>
@@ -180,12 +180,12 @@
 
 <div align="center">
 
-## 🗺️ &nbsp;The Campaign Map &nbsp;🗺️
+## The Campaign Map
 ### *Lands Conquered Through Code*
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRidhaa05&custom_title=%E2%9A%94%EF%B8%8F%20The%20Knight%27s%20Campaign%20Trail&bg_color=0d0d0d&color=FFD700&line=8B0000&point=FFD700&area=true&area_color=8B0000&hide_border=false&border_color=FFD700" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRidhaa05&custom_title=The%20Knight%27s%20Campaign%20Trail&bg_color=0d0d0d&color=FFD700&line=8B0000&point=FFD700&area=true&area_color=8B0000&hide_border=false&border_color=FFD700" alt="Contribution Graph"/>
 
 </div>
 
@@ -197,19 +197,31 @@
 
 <div align="center">
 
-## 🔥 &nbsp;Active Quests &nbsp;🔥
+## Active Quests
+### *Quest Log - What the Knight is currently conquering*
 
 <br/>
 
-<pre>
-📌 Quest Log — What the Knight is currently conquering:
-
-  ⚔️  [ACTIVE]   Mastering the sword of React & Node.js
-  🏹  [ACTIVE]   Mapping the dungeons of Backend Architecture
-  🐉  [BOSS]     Slaying the dragon of System Design
-  📜  [ONGOING]  Scribing tales in Open Source Lands
-  🌟  [EPIC]     Building a portfolio worthy of legends
-</pre>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ACTIVE-2ECC40?style=for-the-badge" alt="active"/>
+    </td>
+    <td align="left">&nbsp;<b>Mastering the sword of React &amp; Node.js</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ACTIVE-2ECC40?style=for-the-badge" alt="active"/>
+    </td>
+    <td align="left">&nbsp;<b>Mapping the dungeons of Backend Architecture</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BOSS-8B0000?style=for-the-badge" alt="boss"/>
+    </td>
+    <td align="left">&nbsp;<b>Slaying the dragon of System Design</b></td>
+  </tr>
+</table>
 
 </div>
 
@@ -221,26 +233,20 @@
 
 <div align="center">
 
-## 🦅 &nbsp;Send the Raven &nbsp;🦅
-### *Open the Royal Gates — Connect with the Knight*
+## Send the Raven
+### *Open the Royal Gates - Connect with the Knight*
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%9B%A1%EF%B8%8F%20Knight's%20Hall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/mohammad-ridhaa-nusterdien-a25b38388/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Knight's%20Hall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%F0%9F%93%9C%20Royal%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" alt="Email"/>
+<a href="mailto:m.ridhaa.nusterdien01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Royal%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%F0%9F%A6%85%20The%20Raven-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=8B0000" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="YOUR-PORTFOLIO-URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8F%B0%20The%20Castle-FFD700?style=for-the-badge&logo=About.me&logoColor=black&labelColor=8B0000" alt="Portfolio"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-Must%20Still%20Be%20Made-555555?style=for-the-badge&logo=About.me&logoColor=white&labelColor=8B0000" alt="To be conquered"/>
 
 </div>
 
@@ -252,7 +258,7 @@
 
 <div align="center">
 
-## 🐍 &nbsp;The Snake Devouring My Contributions &nbsp;🐍
+## Cleaning My Contributions
 
 <br/>
 
@@ -272,16 +278,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=%E2%9A%94%EF%B8%8F%20The%20Realm%20Awaits%20Your%20Contribution%20%E2%9A%94%EF%B8%8F&fontSize=16&fontColor=FFD700&fontAlign=50&fontAlignY=55" alt="Royal Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=The%20Realm%20Awaits%20Your%20Contribution&fontSize=16&fontColor=FFD700&fontAlign=50&fontAlignY=55" alt="Royal Footer"/>
 
 </div>
-
-<!--
-  SETUP CHECKLIST:
-  1. Replace YOUR-LINKEDIN in social links
-  2. Replace YOUR-EMAIL
-  3. Replace YOUR-TWITTER
-  4. Replace YOUR-PORTFOLIO-URL
-  5. For snake: add GitHub Action workflow
-  6. Update Active Quests section manually
--->
