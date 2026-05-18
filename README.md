@@ -246,7 +246,7 @@
   <img src="https://img.shields.io/badge/Email-Royal%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" alt="Email"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Portfolio-Must%20Still%20Be%20Made-555555?style=for-the-badge&logo=About.me&logoColor=white&labelColor=8B0000" alt="To be conquered"/>
+<img src="https://img.shields.io/badge/Portfolio-Must%20Still%20Be%20Conquered-555555?style=for-the-badge&logo=About.me&logoColor=white&labelColor=8B0000" alt="Must still be conquered"/>
 
 </div>
 
